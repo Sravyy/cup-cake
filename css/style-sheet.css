@@ -1,0 +1,39 @@
+.imp{
+  font-size: 20px;
+  font-weight: bold;
+}
+body.firstpage{
+  background-color: #edb6dc;
+}
+body.secondpage{
+  background-color: #e08e70;
+}
+body.thirdpage{
+  background-color: #c4f2d5;
+}
+p{
+  font-style: normal;
+  font-family: serif;
+  font-weight: 30px;
+}
+a{
+  align-items: center;
+}
+p.order{
+  font-weight: bold;
+  font-style: italic;
+  color: #397db2;
+  font-size: 50;
+}
+p.loc{
+  font-size: 40px;
+  font-weight: normal;
+  font-family: fantasy;
+}
+ol.flavors{
+  font-size: 20px;
+}
+a.links{
+  font-size: 30px
+  color :#b22a63;
+}
