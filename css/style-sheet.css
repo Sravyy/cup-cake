@@ -32,8 +32,12 @@ p.loc{
 }
 ol.flavors{
   font-size: 20px;
+
 }
 a.links{
   font-size: 30px
   color :#b22a63;
+}
+li.cupcake{
+  float: right;
 }
